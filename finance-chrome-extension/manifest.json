@@ -1,0 +1,11 @@
+{
+    "manifest_version": 3,
+    "name": "Financial Article Summarizer",
+    "version": "1.0",
+    "description": "Summarize financial articles with a click.",
+    "permissions": ["activeTab", "scripting"],
+    "action": {
+      "default_popup": "popup.html"
+    }
+  }
+  
