@@ -19,8 +19,6 @@ Finance Digest is an investment portfolio management app that helps users track 
 Web-app:
 
 <img width="1470" alt="Screenshot 2024-05-29 at 10 45 12 AM" src="https://github.com/janavivekariya/finance-digest/assets/115192476/2b8ff48f-0b0b-426d-bdfe-b26bb32c3dc8">
-<img width="1465" alt="Screenshot 2024-05-27 at 2 19 56 PM" src="https://github.com/janavivekariya/finance-digest/assets/115192476/143a07b4-2c06-424e-87a3-f17570b5f73a">
 
 Chrome Extension:
-<img width="1407" alt="Screenshot 2024-05-27 at 2 19 13 PM" src="https://github.com/janavivekariya/finance-digest/assets/115192476/feda054a-fb8a-4a">
-
+<img width="1465" alt="Screenshot 2024-05-27 at 2 19 56 PM" src="https://github.com/janavivekariya/finance-digest/assets/115192476/143a07b4-2c06-424e-87a3-f17570b5f73a">
