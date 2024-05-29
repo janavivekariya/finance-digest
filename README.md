@@ -17,7 +17,8 @@ Finance Digest is an investment portfolio management app that helps users track 
 - **Authentication**: Firebase (JSON Web Tokens)
 
 Web-app:
-<img width="1407" alt="Screenshot 2024-05-27 at 2 19 13 PM" src="https://github.com/janavivekariya/finance-digest/assets/115192476/feda054a-fb8a-4a<img width="1470" alt="Screenshot 2024-05-29 at 10 45 12 AM" src="https://github.com/janavivekariya/finance-digest/assets/115192476/2b8ff48f-0b0b-426d-bdfe-b26bb32c3dc8">
+<img width="1407" alt="Screenshot 2024-05-27 at 2 19 13 PM" src="https://github.com/janavivekariya/finance-digest/assets/115192476/feda054a-fb8a-4a">
+<img width="1470" alt="Screenshot 2024-05-29 at 10 45 12 AM" src="https://github.com/janavivekariya/finance-digest/assets/115192476/2b8ff48f-0b0b-426d-bdfe-b26bb32c3dc8">
 1e-a486-056847abf23b">
 
 Chrome Extension:
