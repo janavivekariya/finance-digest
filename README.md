@@ -4,9 +4,9 @@ Finance Digest is an investment portfolio management app that helps users track 
 
 ## Features
 
+- **News Impact Analysis**: Get insights into how recent financial news affects your investments.
 - **Investment Tracking**: Keep track of various investments including stocks, bonds, crypto, and more.
 - **Portfolio Analysis**: Analyze the performance of your investment portfolio over time.
-- **News Impact Analysis**: Get insights into how recent financial news affects your investments.
 - **User-Friendly Interface**: Easy-to-use interface for managing and tracking your investments.
 
 ## Technologies Used
@@ -14,5 +14,7 @@ Finance Digest is an investment portfolio management app that helps users track 
 - **Frontend**: React, CSS
 - **Backend**: Node.js, Express
 - **Database**: SQLite
-- **Authentication**: JWT (JSON Web Tokens)
-- **Deployment**: Docker, AWS
+- **Authentication**: Firebase (JSON Web Tokens)
+
+<img width="1407" alt="Screenshot 2024-05-27 at 2 19 13 PM" src="https://github.com/janavivekariya/finance-digest/assets/115192476/feda054a-fb8a-4a1e-a486-056847abf23b">
+<img width="1465" alt="Screenshot 2024-05-27 at 2 19 56 PM" src="https://github.com/janavivekariya/finance-digest/assets/115192476/143a07b4-2c06-424e-87a3-f17570b5f73a">
