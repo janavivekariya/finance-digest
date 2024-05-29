@@ -1,6 +1,6 @@
 # Finance Digest
 
-Finance Digest is an investment portfolio management app that helps users track their investments, analyze the impact of recent financial news, and make informed financial decisions.
+Finance Digest is an investment portfolio management app that helps users track their investments, analyze the impact of recent financial news using chrome extension, and make informed financial decisions.
 
 ## Features
 
